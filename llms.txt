@@ -1,0 +1,45 @@
+# Geotechnik — Hanover
+
+> Geotechnical engineering services in Hanover, Deutschland.
+
+## Services
+- [Anker](https://hanover.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://hanover.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://hanover.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://hanover.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://hanover.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://hanover.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://hanover.geotechnik.sbs/boschungsstabilitat/)
+- [Cpt Versuch](https://hanover.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://hanover.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://hanover.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://hanover.geotechnik.sbs/fundamente/)
+- [Geophysik](https://hanover.geotechnik.sbs/geophysik/)
+- [Grundungen](https://hanover.geotechnik.sbs/grundungen/)
+- [Hange](https://hanover.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://hanover.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://hanover.geotechnik.sbs/injektionen/)
+- [Labor](https://hanover.geotechnik.sbs/labor/)
+- [Labor In Situ](https://hanover.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://hanover.geotechnik.sbs/masw/)
+- [Pfahle](https://hanover.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://hanover.geotechnik.sbs/plattendruckversuch/)
+- [Sandkegel Dichte](https://hanover.geotechnik.sbs/sandkegel-dichte/)
+- [Schurfgruben](https://hanover.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://hanover.geotechnik.sbs/seismik/)
+- [Seismische Refraktion](https://hanover.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://hanover.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://hanover.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://hanover.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://hanover.geotechnik.sbs/stutzmauern/)
+- [Untersuchung](https://hanover.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://hanover.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://hanover.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://hanover.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://hanover.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Hanover, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
